@@ -5,4 +5,3 @@ El curso de Laboratorio de Datos es aplicado. Nuestro objetivo no es demostrar m
 
 El objeto fundamental que usamos para la materia son los notebooks de Jupyter (por defecto usaremos Google Colab), con combinación de texto, figuras y código. Cada clase estará acompañada de un notebook donde se presentará el código con los ejemplos correspondientes. La ejercitación individual también se entregará mediante un notebook. Esperamos que los notebooks adquiridos en la materia acompañen al alumno más allá de la misma y le sirvan como una plataforma inicial para encarar futuros proyectos académicos y profesionales.
 
-El curso es teórico-práctico y por lo tanto no hay una distinción entre teóricas y prácticas. Al comienzo de cada clase vamos a mostrar una breve presentación con los contenidos de la clase y luego pasaremos a analizar juntos los notebooks
